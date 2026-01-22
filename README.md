@@ -31,4 +31,4 @@ Recently graduated from the **Workintech Full-Stack Developer** program (Jan 202
 
 ## Contact
 **Email:** dev.oguzhankaya@gmail.com  
-**LinkedIn:** [linkedin.com/in/oğuzhan-kaya](https://www.linkedin.com/in/o%C4%9Fuzhan-kaya-14a39b252/)
+**LinkedIn:** https://www.linkedin.com/in/o%C4%9Fuzhan-kaya-fullstackdeveloper/
